@@ -1,1 +1,1 @@
-"# New start" 
+Công nghệ phần mềm
